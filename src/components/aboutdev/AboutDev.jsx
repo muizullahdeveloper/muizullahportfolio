@@ -15,7 +15,7 @@ const AboutDev = () => {
 
 
                 <div className='aboutme-picture'>
-                    <img src={aboutdevpicture} />
+                    <img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?t=st=1741483798~exp=1741487398~hmac=c08a9bcf212aded02db8bc77677fcb153bac59b06d3d84a99794dbbadd114a3b&w=740" />
                 </div>
 
             </div>

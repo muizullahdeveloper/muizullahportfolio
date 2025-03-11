@@ -6,19 +6,19 @@ const Education = () => {
 
     const educationData = [
         {
-            educationLevel: "Bachelor's in Engineering",
-            instituteName: "NUST",
-            year: "2017 - 2021"
+            educationLevel: "BSIT(Honours)",
+            instituteName: "Sindh Agriculture University Tandojam",
+            year: "2020 - 2024"
         },
         {
             educationLevel: "Intermediate",
-            instituteName: "Malir Cantt College",
-            year: "2015 - 2017"
+            instituteName: "Govt:Degree College Lrk",
+            year: "2018 - 2019"
         },
         {
             educationLevel: "Matriculation",
-            instituteName: "KGS",
-            year: "2013- - 2025"
+            instituteName: "Saint Joesph High School Lrk",
+            year: "2008 - 2017"
         },
     ]
 

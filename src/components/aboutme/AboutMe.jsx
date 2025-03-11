@@ -20,7 +20,7 @@ const AboutMe = () => {
 
             {/* YEH IMAGE WALI DIV HAI */}
             <div className='aboutme-picture'>
-                <img src='https://media.istockphoto.com/id/1265176370/photo/portrait-of-a-confident-young-businessman.jpg?s=612x612&w=0&k=20&c=Hr5Rn3WlBied-o4Qu2LiRc6wP_eHI8UMG9rl1v-_a9s=' />
+                <img src='https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?ga=GA1.1.909818565.1741259515&semt=ais_hybrid=' />
             </div>
 
         </div>
